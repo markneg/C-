@@ -1,6 +1,6 @@
 //Mark Negus
 //Battleship Game Project 
-//In this game, the program randomly sets up each ship without them running into each other. The user guesses spaces until every ship has been sunk. 
+//In this game, the program randomly sets up each ship without them running into each other or off the edge of the board. The user guesses spaces until every ship has been sunk. 
 #include <stdio.h>
 #include <iostream>
 #include <stdlib.h>
